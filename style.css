@@ -1,0 +1,21 @@
+.tiles button{
+	width: 100px;
+	height: 100px;
+	margin: 5px;
+}
+.layer0{
+	background-color: green;
+	font-size: 0;
+}
+.layer1{
+	background-color: yellow;
+}
+.layer2{
+	background-color: orange;
+}
+.layer3{
+	background-color: red;
+}
+.valid{
+	border: 10px solid white;
+}
